@@ -1,0 +1,4 @@
+.vscode/
+.jshintrc
+css/*.css.map
+node_modules/
